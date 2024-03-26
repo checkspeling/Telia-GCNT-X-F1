@@ -2,3 +2,16 @@ Firmware versions.
 19.4.0507-4581030-20210308104747
 19.4.0856-4581009-20221122120420
 
+
+WAN, VLAN101
+SSH on port 60022 Public key only
+NGINX on port 60443 WebUI for remote assistance
+CWMP on port 51005 Thomson CWMP
+
+Searching for JTAG points. WiP
+
+
+VCC  ?   GND  GND  GND   ?    ?    RX
+|    |    |    |    |    |    |    |
+|    |    |    |    |    |    |    |
+?    ?    ?    ?    ?    ?    ?    TX
